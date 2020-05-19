@@ -2,7 +2,7 @@
 
 Aegon Emeklilik ve Hayat Junior Software Developer Interview Project.
 
-### Project Architecture
+## Project Architecture
 
 The project consist of 3 parts:
 
